@@ -71,3 +71,5 @@ The outcome of this process includes:
 3.Ease of Management: AWS Management Console and CLI simplify interactions with the storage system.
 
 **output**
+
+![Screenshot (140)](https://github.com/user-attachments/assets/d4f78b17-59e0-4c73-912c-c4979f5435dc)
